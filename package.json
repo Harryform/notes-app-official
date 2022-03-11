@@ -5,12 +5,14 @@
     "keywords": [],
     "main": "src/index.js",
     "dependencies": {
-        "node": "17.5.0",
+        "14": "^3.1.6",
         "@emotion/react": "^11.8.1",
         "@emotion/styled": "^11.8.1",
         "@mui/icons-material": "^5.4.2",
         "@mui/material": "^5.4.2",
         "express": "^4.17.3",
+        "node": "17.5.0",
+        "nvm": "^0.0.4",
         "react": "17.0.2",
         "react-dom": "17.0.2",
         "react-scripts": "^5.0.0"

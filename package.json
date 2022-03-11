@@ -1,12 +1,9 @@
 {
-    "name": "notes-app-official",
+    "name": "using-pre-built-react-components",
     "version": "1.0.0",
     "description": "",
     "keywords": [],
     "main": "src/index.js",
-    "engines": {
-        "node": "17.5.0"
-    },
     "dependencies": {
         "@emotion/react": "^11.8.1",
         "@emotion/styled": "^11.8.1",
